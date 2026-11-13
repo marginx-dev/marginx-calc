@@ -1,0 +1,6 @@
+{
+  "name": "MarginX: COD Profit Calculator",
+  "description": "Production-ready offline PWA for calculating Cash on Delivery (COD) net profit, RTO-adjusted margins, and break-even ROAS in PKR for online sellers in Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
